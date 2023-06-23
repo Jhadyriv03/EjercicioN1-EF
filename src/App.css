@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  width: 385px;
+  height: 812px;
+  margin: 0 auto;
+  background-color: #E7CBCB;
+  justify-content: center;
+}
